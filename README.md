@@ -1,1 +1,1 @@
-# License-Plate-Recognition-using-yoloV5-and-easyOCR
+It is a model build using yolov5s to identify the License Plate and draw the bounding box, the yolo model is trained using image with their respective annonated coordinates as label. Then the yolo model loaded using pytorch and  opencv library is used for image processing. The Registration Number in License Plate is identified by using a library called easyOCR. The model  extract the Registration Number from photo ,video and live camera access .
