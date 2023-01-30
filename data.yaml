@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/NewLPD/train/images
+val: /content/drive/MyDrive/NewLPD/val/images
+
+nc: 1
+names: ['license']
