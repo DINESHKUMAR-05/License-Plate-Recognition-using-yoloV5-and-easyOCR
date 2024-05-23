@@ -1,4 +1,4 @@
- # License Plate Recognition Using YOLOv5s 
+ # License Plate Recognition Using YOLOv5
  
 This repository contains a tailor-made model for License Plate Recognition built using YOLOv5s. It aims to identify license plates from various vehicles and draws a bounding box around the detected license plate. Additionally, it uses the `EasyOCR` library to extract the registration number from the detected plates. The model works efficiently on photos, videos and also real-time footage from cameras.
 
